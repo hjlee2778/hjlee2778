@@ -1,23 +1,5 @@
 ![LEE HEEJU's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjlee2778&show_icons=true&theme=radical)
-이희주입니다.<br/><br/>
 
-<br/>
-<br/>
-<a href="https://github.com/aebonlee" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>&nbsp;
-<a href="https://www.linkedin.com/in/aebon" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>&nbsp;
-<a href="https://www.facebook.com/aebon.lee" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>&nbsp;
-<a href="https://instagram.com/aebonlee" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b alt=instagram style="margin-bottom: 5px;" />
-</a>&nbsp;
-<a href="https://twitter.com/leeaebon" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>&nbsp;<br>
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
