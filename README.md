@@ -1,6 +1,6 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=cylinder&color=4b89dc&height=120&text=Welcome%20!&animation=&fontColor=ffffff&fontSize=50" />
-    </div>
+    </div><br>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 쭈's Github </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 앞으로 꾸준히 성장할 개발자입니다! </div> 
