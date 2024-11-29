@@ -1,7 +1,7 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=cylinder&color=4b89dc&height=120&text=Welcome%20!&animation=&fontColor=ffffff&fontSize=50" />
     </div><br>
-    <a href="https://github.com/devxb/gitanimals">
+<a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/hjlee2778"
   width="600"
