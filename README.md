@@ -34,4 +34,18 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjlee2778&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
            /> </div> 
     </div>
+
+    ---  
+
+# 🏆 Prize
+
+#### Frontend Development
+- **2024 프론트엔드 데브코스 최종 프로젝트 (프로젝트 인기상)**
+    - 개발: 메인 화면 및 로그인, 알림 기능 개발
+
+---
+
+# 📚 Education
+- 동국대학교 **사회학** 전공 / **융합소프트웨어** 연계전공 2018.03 ~
+- 프로그래머스 웹 프론트엔드 데브코스 1기(프론트엔드) 2024.07.15 ~ 2024.12.13
     
