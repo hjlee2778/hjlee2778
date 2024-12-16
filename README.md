@@ -1,6 +1,7 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=cylinder&color=4b89dc&height=120&text=Welcome%20!&animation=&fontColor=ffffff&fontSize=50" />
     </div><br>
+<div align= "center">
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/hjlee2778"
@@ -8,19 +9,15 @@
   height="300"
 />
 </a>
-
-<div align= "center">
     
 ## 🛠️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=react,styledcomponents&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,styledcomponents,figma&theme=dark)](https://skillicons.dev)
 
 
 ## 🏅 Stats
 <img src="https://github-readme-stats.vercel.app/api?username=hjlee2778&bg_color=180,000000,&title_color=000000&text_color=000000"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjlee2778&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"/>
 
 </div>   
 
