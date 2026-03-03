@@ -13,8 +13,6 @@
 [![My Skills](https://skillicons.dev/icons?i=tailwind,styledcomponents,figma&theme=dark)](https://skillicons.dev)
 
 
-## 🏅 Stats
-<img src="https://github-readme-stats.vercel.app/api?username=hjlee2778&bg_color=180,000000,&title_color=000000&text_color=000000"/>
 
 </div>   
 
